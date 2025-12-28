@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://groupalnaddy2-afk.github.io/skiin/sitemap.xml
